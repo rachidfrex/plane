@@ -4,7 +4,7 @@ function Card() {
     
   return (
     <div className='flex font-sofia justify-center items-center my-10 '>
-        <div className='flex flex-col justify-center items-center border-2 p-8 w-[1100px]  rounded-3xl shadow-lg '>
+        <div className='flex flex-col justify-center items-center border-2 p-8 w-[1100px]  rounded-3xl shadow-md shadow-blue-400/20 '>
             <div className=' text-gray-500 flex gap-7 justify-center px-7 py-2  items-center rounded-full bg-slate-100 '>
                 <span >
                     Economy
