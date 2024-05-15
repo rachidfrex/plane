@@ -5,7 +5,7 @@ function Nav() {
     <div className="flex justify-center items-center flex-col w-full ">
       <div className="w-full flex justify-center items-center py-5 bg-gray shadow-sm">
 
-        <div className="flex justify-between items-center max-w-7xl w-full text-sm text-gray-400 ">
+        <div className="flex justify-between items-center w-full  max-w-7xl   text-sm text-gray-500 ">
             <div>
             <svg className="text-gray-400" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="23" height="23" color="#000000" fill="none">
                 <path d="M2 4C2 5.10457 2.89543 6 4 6C5.10457 6 6 5.10457 6 4C6 2.89543 5.10457 2 4 2C2.89543 2 2 2.89543 2 4Z" stroke="currentColor" stroke-width="1.5" />
@@ -19,7 +19,7 @@ function Nav() {
                 <path d="M18 20C18 21.1046 18.8954 22 20 22C21.1046 22 22 21.1046 22 20C22 18.8954 21.1046 18 20 18C18.8954 18 18 18.8954 18 20Z" stroke="currentColor" stroke-width="1.5" />
             </svg>
             </div>
-            <div className="flex  justify-center items-center gap-5 ">
+            <div className="flex ml-16  justify-center items-center gap-5 ">
                 <p className="flex justify-center items-center font-semibold ">Support</p>
                 <span className="flex justify-center items-center gap-2  font-semibold  ">
                 <svg className=" text-gray-400" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="16" height="16" color="#000000" fill="none">
@@ -43,7 +43,7 @@ function Nav() {
           <p className="text-xs text-slate-500">flight boking agency</p>
         </div>
         <nav className="flex justify-center items-center">
-          <ul className="flex text-semibold justify-center items-center gap-10 ">
+          <ul className="flex text-semibold justify-center items-center gap-16 ">
             <li className="">Home</li>
             <li className="">About</li>
             <li className="">Services</li>
