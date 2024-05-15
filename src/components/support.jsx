@@ -23,7 +23,7 @@ function Support() {
             Booking and travel planning
           </h2>
           <p className="text-gray-500 flex items-start ">
-            Find help with your booking and travel plans, and see what to expect
+            Find help with your booking and travel plans, and see what to expect<br />
             along your journey.
           </p>
         </div>

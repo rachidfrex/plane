@@ -29,7 +29,7 @@ function Travelben() {
                 Book & ralax
             </h3>
             <p className=" flex justify-center items-center text-sm text-center w-[200px] text-slate-500 ">
-                Find help with your booking  and travel plans, and see what to expect
+                Find help with your booking  and travel plans, and see what to expect 
                 along your journey.
             </p>
         </div>
