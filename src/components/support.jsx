@@ -51,9 +51,9 @@ function Support() {
         </div>
       </div>
       {/* image  */}
-      <div className="flex justify-center items-center">
+      <div className="flex justify-center items-center bg-transparent">
           <img
-            className="h-[500px] w-[500px] "
+            className="h-[500px] w-[500px]   "
             src={airplaints}
             alt="airplaint"
           />

@@ -2,7 +2,7 @@ import React from "react";
 
 function Travelben() {
   return (
-    <div className="flex flex-col  justify-center bg-slate-100 items-center">
+    <div className="flex flex-col  justify-center bg-slate-100 pb-14 items-center">
     <div className="flex flex-col gap-4 pt-14  font-sofia  max-w-[1100px] justify-center items-center w-full  ">
       <div className="flex justify-between  items-start w-full"> 
         <h1 className="flex text-5xl text-start text-bold justify-center items-center ">
